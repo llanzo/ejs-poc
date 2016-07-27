@@ -1,0 +1,1396 @@
+{
+    "userName": "System Administrator",
+    "currentTime": "2016-07-26T17:41:38-04:00",
+    "recordCount": 10,
+    "summaryHeaders": [
+        "Summary: 32258 items (10 groups)",
+        "Max. Add Date"
+    ],
+    "groupRecords": [
+        {
+            "id": "SB",
+            "data": [
+                "SB (32151 items)",
+                1192766400000
+            ]
+        },
+        {
+            "id": "Empty",
+            "data": [
+                "-NULL/EMPTY- (32 items)",
+                null
+            ]
+        },
+        {
+            "id": "WEB",
+            "data": [
+                "WEB (28 items)",
+                1357189200000
+            ]
+        },
+        {
+            "id": "BJ",
+            "data": [
+                "BJ (26 items)",
+                1336363200000
+            ]
+        },
+        {
+            "id": "DL",
+            "data": [
+                "DL (7 items)",
+                1269835200000
+            ]
+        },
+        {
+            "id": "UNKN",
+            "data": [
+                "UNKN (6 items)",
+                1275019200000
+            ]
+        },
+        {
+            "id": "ML",
+            "data": [
+                "ML (3 items)",
+                1243656000000
+            ]
+        },
+        {
+            "id": "DS",
+            "data": [
+                "DS (2 items)",
+                1283486400000
+            ]
+        },
+        {
+            "id": "SM",
+            "data": [
+                "SM (2 items)",
+                1343448000000
+            ]
+        },
+        {
+            "id": "PR",
+            "data": [
+                "PR (1 items)",
+                1275710400000
+            ]
+        }
+    ],
+    "summaryTOC": [
+        {
+            "id": "summary",
+            "data": [
+                "Summary: 32258 items (10 groups)",
+                "Max. Add Date"
+            ]
+        },
+        {
+            "id": "SB",
+            "data": [
+                "SB (32151 items)",
+                1192766400000
+            ]
+        },
+        {
+            "id": "Empty",
+            "data": [
+                "-NULL/EMPTY- (32 items)",
+                null
+            ]
+        },
+        {
+            "id": "WEB",
+            "data": [
+                "WEB (28 items)",
+                1357189200000
+            ]
+        },
+        {
+            "id": "BJ",
+            "data": [
+                "BJ (26 items)",
+                1336363200000
+            ]
+        },
+        {
+            "id": "DL",
+            "data": [
+                "DL (7 items)",
+                1269835200000
+            ]
+        },
+        {
+            "id": "UNKN",
+            "data": [
+                "UNKN (6 items)",
+                1275019200000
+            ]
+        },
+        {
+            "id": "ML",
+            "data": [
+                "ML (3 items)",
+                1243656000000
+            ]
+        },
+        {
+            "id": "DS",
+            "data": [
+                "DS (2 items)",
+                1283486400000
+            ]
+        },
+        {
+            "id": "SM",
+            "data": [
+                "SM (2 items)",
+                1343448000000
+            ]
+        },
+        {
+            "id": "PR",
+            "data": [
+                "PR (1 items)",
+                1275710400000
+            ]
+        }
+    ],
+    "groupedRecords": [
+        {
+            "group": "SB",
+            "records": [
+                {
+                    "0": "0",
+                    "absplit": "95370",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2007-10-19T04:00:00.000Z",
+                    "addedBy": "SB",
+                    "address": "175 S El Molino Ave",
+                    "address1": "175 S El Molino Ave",
+                    "address1S": "175 S El Molino Ave"
+                },
+                {
+                    "0": "0",
+                    "absplit": "27602",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2007-10-19T04:00:00.000Z",
+                    "addedBy": "SB",
+                    "address": "238 E Main St",
+                    "address1": "238 E Main St",
+                    "address1S": "238 E Main St"
+                },
+                {
+                    "0": "0",
+                    "absplit": "90744-1433",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2007-10-19T04:00:00.000Z",
+                    "addedBy": "SB",
+                    "address": "180 Newport Center Dr",
+                    "address1": "180 Newport Center Dr",
+                    "address1S": "180 Newport Center Dr"
+                },
+                {
+                    "0": "0",
+                    "absplit": "95816",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2007-10-19T04:00:00.000Z",
+                    "addedBy": "SB",
+                    "address": "540 Gilbert Ave",
+                    "address1": "540 Gilbert Ave",
+                    "address1S": "540 Gilbert Ave"
+                },
+                {
+                    "0": "0",
+                    "absplit": "60120",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2007-10-19T04:00:00.000Z",
+                    "addedBy": "SB",
+                    "address": "1518 Coffee Rd Ste B",
+                    "address1": "1518 Coffee Rd Ste B",
+                    "address1S": "1518 Coffee Rd Ste B"
+                },
+                {
+                    "0": "0",
+                    "absplit": "60608",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2007-10-19T04:00:00.000Z",
+                    "addedBy": "SB",
+                    "address": "1017 Mission St",
+                    "address1": "1017 Mission St",
+                    "address1S": "1017 Mission St"
+                },
+                {
+                    "0": "0",
+                    "absplit": "55102",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2007-10-19T04:00:00.000Z",
+                    "addedBy": "SB",
+                    "address": "4851 Cherryvale Ave",
+                    "address1": "4851 Cherryvale Ave",
+                    "address1S": "4851 Cherryvale Ave"
+                },
+                {
+                    "0": "0",
+                    "absplit": "93551",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2007-10-19T04:00:00.000Z",
+                    "addedBy": "SB",
+                    "address": "1001 W San Marcos Blvd",
+                    "address1": "1001 W San Marcos Blvd",
+                    "address1S": "1001 W San Marcos Blvd"
+                },
+                {
+                    "0": "0",
+                    "absplit": "28210",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2007-10-19T04:00:00.000Z",
+                    "addedBy": "SB",
+                    "address": "PO BOX 3364",
+                    "address1": "PO BOX 3364",
+                    "address1S": "PO BOX 3364"
+                },
+                {
+                    "0": "0",
+                    "absplit": "96766",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2007-10-19T04:00:00.000Z",
+                    "addedBy": "SB",
+                    "address": "1325 S Kihei Rd #201",
+                    "address1": "1325 S Kihei Rd #201",
+                    "address1S": "1325 S Kihei Rd#201"
+                }
+            ],
+            "summary": {
+                "group": "SB",
+                "participants": [],
+                "total": 32151,
+                "value": "SB",
+                "addDate": 1192766400000,
+                "records": [
+                    {
+                        "0": "0",
+                        "absplit": "95370",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2007-10-19T04:00:00.000Z",
+                        "addedBy": "SB",
+                        "address": "175 S El Molino Ave",
+                        "address1": "175 S El Molino Ave",
+                        "address1S": "175 S El Molino Ave"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "27602",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2007-10-19T04:00:00.000Z",
+                        "addedBy": "SB",
+                        "address": "238 E Main St",
+                        "address1": "238 E Main St",
+                        "address1S": "238 E Main St"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "90744-1433",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2007-10-19T04:00:00.000Z",
+                        "addedBy": "SB",
+                        "address": "180 Newport Center Dr",
+                        "address1": "180 Newport Center Dr",
+                        "address1S": "180 Newport Center Dr"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "95816",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2007-10-19T04:00:00.000Z",
+                        "addedBy": "SB",
+                        "address": "540 Gilbert Ave",
+                        "address1": "540 Gilbert Ave",
+                        "address1S": "540 Gilbert Ave"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "60120",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2007-10-19T04:00:00.000Z",
+                        "addedBy": "SB",
+                        "address": "1518 Coffee Rd Ste B",
+                        "address1": "1518 Coffee Rd Ste B",
+                        "address1S": "1518 Coffee Rd Ste B"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "60608",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2007-10-19T04:00:00.000Z",
+                        "addedBy": "SB",
+                        "address": "1017 Mission St",
+                        "address1": "1017 Mission St",
+                        "address1S": "1017 Mission St"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "55102",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2007-10-19T04:00:00.000Z",
+                        "addedBy": "SB",
+                        "address": "4851 Cherryvale Ave",
+                        "address1": "4851 Cherryvale Ave",
+                        "address1S": "4851 Cherryvale Ave"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "93551",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2007-10-19T04:00:00.000Z",
+                        "addedBy": "SB",
+                        "address": "1001 W San Marcos Blvd",
+                        "address1": "1001 W San Marcos Blvd",
+                        "address1S": "1001 W San Marcos Blvd"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "28210",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2007-10-19T04:00:00.000Z",
+                        "addedBy": "SB",
+                        "address": "PO BOX 3364",
+                        "address1": "PO BOX 3364",
+                        "address1S": "PO BOX 3364"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "96766",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2007-10-19T04:00:00.000Z",
+                        "addedBy": "SB",
+                        "address": "1325 S Kihei Rd #201",
+                        "address1": "1325 S Kihei Rd #201",
+                        "address1S": "1325 S Kihei Rd#201"
+                    }
+                ]
+            }
+        },
+        {
+            "group": "Empty",
+            "records": [],
+            "summary": {
+                "group": "Empty",
+                "participants": [],
+                "total": 32,
+                "value": "__emptystring__",
+                "addDate": null,
+                "records": []
+            }
+        },
+        {
+            "group": "WEB",
+            "records": [
+                {
+                    "0": "0",
+                    "absplit": "27613",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2009-06-08T04:00:00.000Z",
+                    "addedBy": "WEB",
+                    "address": "7501 Creedmoor Road",
+                    "address1": "7501 Creedmoor Road",
+                    "address1S": "7501 Creedmoor Road"
+                },
+                {
+                    "0": "0",
+                    "absplit": "27613",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2010-02-02T05:00:00.000Z",
+                    "addedBy": "WEB",
+                    "address": "7501 Creedmoor Road",
+                    "address1": "7501 Creedmoor Road",
+                    "address1S": "7501 Creedmoor Road"
+                },
+                {
+                    "0": "0",
+                    "absplit": "27615",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2010-10-31T04:00:00.000Z",
+                    "addedBy": "WEB",
+                    "address": "200 Main Street",
+                    "address1": "200 Main Street",
+                    "address1S": "200 Main Street"
+                },
+                {
+                    "0": "0",
+                    "absplit": "27615",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2010-10-31T04:00:00.000Z",
+                    "addedBy": "WEB",
+                    "address": "400 Main Street",
+                    "address1": "400 Main Street",
+                    "address1S": "400 Main Street"
+                },
+                {
+                    "0": "0",
+                    "absplit": "27604",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2012-10-07T04:00:00.000Z",
+                    "addedBy": "WEB",
+                    "address": "skycrest drive",
+                    "address1": "skycrest drive",
+                    "address1S": "skycrest drive"
+                },
+                {
+                    "0": "0",
+                    "absplit": "27613",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2013-01-03T05:00:00.000Z",
+                    "addedBy": "WEB",
+                    "address": "7501 Creedmoor Road",
+                    "address1": "7501 Creedmoor Road",
+                    "address1S": "7501 Creedmoor Road"
+                },
+                {
+                    "0": "0",
+                    "absplit": "27615",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2009-02-16T05:00:00.000Z",
+                    "addedBy": "WEB",
+                    "address": "1003 Main Street",
+                    "address1": "1003 Main Street",
+                    "address1S": "1003 Main Street"
+                },
+                {
+                    "0": "0",
+                    "absplit": "27615",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2009-03-19T04:00:00.000Z",
+                    "addedBy": "WEB",
+                    "address": "488 Hospital Drive",
+                    "address1": "488 Hospital Drive",
+                    "address1S": "488 Hospital Drive"
+                },
+                {
+                    "0": "0",
+                    "absplit": "27602",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2009-08-03T04:00:00.000Z",
+                    "addedBy": "WEB",
+                    "address": "3883 Main Street",
+                    "address1": "3883 Main Street",
+                    "address1S": "3883 Main Street"
+                },
+                {
+                    "0": "0",
+                    "absplit": "27615",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2010-10-31T04:00:00.000Z",
+                    "addedBy": "WEB",
+                    "address": "200 Main Street",
+                    "address1": "200 Main Street",
+                    "address1S": "200 Main Street"
+                }
+            ],
+            "summary": {
+                "group": "WEB",
+                "participants": [],
+                "total": 28,
+                "value": "WEB",
+                "addDate": 1357189200000,
+                "records": [
+                    {
+                        "0": "0",
+                        "absplit": "27613",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2009-06-08T04:00:00.000Z",
+                        "addedBy": "WEB",
+                        "address": "7501 Creedmoor Road",
+                        "address1": "7501 Creedmoor Road",
+                        "address1S": "7501 Creedmoor Road"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "27613",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2010-02-02T05:00:00.000Z",
+                        "addedBy": "WEB",
+                        "address": "7501 Creedmoor Road",
+                        "address1": "7501 Creedmoor Road",
+                        "address1S": "7501 Creedmoor Road"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "27615",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2010-10-31T04:00:00.000Z",
+                        "addedBy": "WEB",
+                        "address": "200 Main Street",
+                        "address1": "200 Main Street",
+                        "address1S": "200 Main Street"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "27615",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2010-10-31T04:00:00.000Z",
+                        "addedBy": "WEB",
+                        "address": "400 Main Street",
+                        "address1": "400 Main Street",
+                        "address1S": "400 Main Street"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "27604",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2012-10-07T04:00:00.000Z",
+                        "addedBy": "WEB",
+                        "address": "skycrest drive",
+                        "address1": "skycrest drive",
+                        "address1S": "skycrest drive"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "27613",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2013-01-03T05:00:00.000Z",
+                        "addedBy": "WEB",
+                        "address": "7501 Creedmoor Road",
+                        "address1": "7501 Creedmoor Road",
+                        "address1S": "7501 Creedmoor Road"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "27615",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2009-02-16T05:00:00.000Z",
+                        "addedBy": "WEB",
+                        "address": "1003 Main Street",
+                        "address1": "1003 Main Street",
+                        "address1S": "1003 Main Street"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "27615",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2009-03-19T04:00:00.000Z",
+                        "addedBy": "WEB",
+                        "address": "488 Hospital Drive",
+                        "address1": "488 Hospital Drive",
+                        "address1S": "488 Hospital Drive"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "27602",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2009-08-03T04:00:00.000Z",
+                        "addedBy": "WEB",
+                        "address": "3883 Main Street",
+                        "address1": "3883 Main Street",
+                        "address1S": "3883 Main Street"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "27615",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2010-10-31T04:00:00.000Z",
+                        "addedBy": "WEB",
+                        "address": "200 Main Street",
+                        "address1": "200 Main Street",
+                        "address1S": "200 Main Street"
+                    }
+                ]
+            }
+        },
+        {
+            "group": "BJ",
+            "records": [
+                {
+                    "0": "0",
+                    "absplit": "27613",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2008-06-29T04:00:00.000Z",
+                    "addedBy": "BJ",
+                    "address": "7501 Creedmoor Road",
+                    "address1": "7501 Creedmoor Road",
+                    "address1S": "7501 Creedmoor Road"
+                },
+                {
+                    "0": "0",
+                    "absplit": "27615",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2008-07-04T04:00:00.000Z",
+                    "addedBy": "BJ",
+                    "address": "100 Main Street",
+                    "address1": "100 Main Street",
+                    "address1S": "100 Main Street"
+                },
+                {
+                    "0": "0",
+                    "absplit": "V5A 2A5",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2009-09-17T04:00:00.000Z",
+                    "addedBy": "BJ",
+                    "address": "38 Main street",
+                    "address1": "38 Main street",
+                    "address1S": "38 Main street"
+                },
+                {
+                    "0": "0",
+                    "absplit": "58506",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2009-12-13T05:00:00.000Z",
+                    "addedBy": "BJ",
+                    "address": "1200 Schafer St",
+                    "address1": "1200 Schafer St",
+                    "address1S": "1200 Schafer St"
+                },
+                {
+                    "0": "0",
+                    "absplit": "27613",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2008-06-29T04:00:00.000Z",
+                    "addedBy": "BJ",
+                    "address": "7501 Creedmoor Road",
+                    "address1": "7501 Creedmoor Road",
+                    "address1S": "7501 Creedmoor Road"
+                },
+                {
+                    "0": "0",
+                    "absplit": "27613",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2008-06-29T04:00:00.000Z",
+                    "addedBy": "BJ",
+                    "address": "7501 Creedmoor Road",
+                    "address1": "7501 Creedmoor Road",
+                    "address1S": "7501 Creedmoor Road"
+                },
+                {
+                    "0": "0",
+                    "absplit": "27613",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2008-06-29T04:00:00.000Z",
+                    "addedBy": "BJ",
+                    "address": "7501 Creedmoor Road",
+                    "address1": "7501 Creedmoor Road",
+                    "address1S": "7501 Creedmoor Road"
+                },
+                {
+                    "0": "0",
+                    "absplit": "27613",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2008-06-29T04:00:00.000Z",
+                    "addedBy": "BJ",
+                    "address": "7501 Creedmoor Road",
+                    "address1": "7501 Creedmoor Road",
+                    "address1S": "7501 Creedmoor Road"
+                },
+                {
+                    "0": "0",
+                    "absplit": "27613",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2008-06-29T04:00:00.000Z",
+                    "addedBy": "BJ",
+                    "address": "7501 Creedmoor Road",
+                    "address1": "7501 Creedmoor Road",
+                    "address1S": "7501 Creedmoor Road"
+                },
+                {
+                    "0": "0",
+                    "absplit": "27613",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2008-06-29T04:00:00.000Z",
+                    "addedBy": "BJ",
+                    "address": "7501 Creedmoor Road",
+                    "address1": "7501 Creedmoor Road",
+                    "address1S": "7501 Creedmoor Road"
+                }
+            ],
+            "summary": {
+                "group": "BJ",
+                "participants": [],
+                "total": 26,
+                "value": "BJ",
+                "addDate": 1336363200000,
+                "records": [
+                    {
+                        "0": "0",
+                        "absplit": "27613",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2008-06-29T04:00:00.000Z",
+                        "addedBy": "BJ",
+                        "address": "7501 Creedmoor Road",
+                        "address1": "7501 Creedmoor Road",
+                        "address1S": "7501 Creedmoor Road"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "27615",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2008-07-04T04:00:00.000Z",
+                        "addedBy": "BJ",
+                        "address": "100 Main Street",
+                        "address1": "100 Main Street",
+                        "address1S": "100 Main Street"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "V5A 2A5",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2009-09-17T04:00:00.000Z",
+                        "addedBy": "BJ",
+                        "address": "38 Main street",
+                        "address1": "38 Main street",
+                        "address1S": "38 Main street"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "58506",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2009-12-13T05:00:00.000Z",
+                        "addedBy": "BJ",
+                        "address": "1200 Schafer St",
+                        "address1": "1200 Schafer St",
+                        "address1S": "1200 Schafer St"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "27613",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2008-06-29T04:00:00.000Z",
+                        "addedBy": "BJ",
+                        "address": "7501 Creedmoor Road",
+                        "address1": "7501 Creedmoor Road",
+                        "address1S": "7501 Creedmoor Road"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "27613",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2008-06-29T04:00:00.000Z",
+                        "addedBy": "BJ",
+                        "address": "7501 Creedmoor Road",
+                        "address1": "7501 Creedmoor Road",
+                        "address1S": "7501 Creedmoor Road"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "27613",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2008-06-29T04:00:00.000Z",
+                        "addedBy": "BJ",
+                        "address": "7501 Creedmoor Road",
+                        "address1": "7501 Creedmoor Road",
+                        "address1S": "7501 Creedmoor Road"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "27613",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2008-06-29T04:00:00.000Z",
+                        "addedBy": "BJ",
+                        "address": "7501 Creedmoor Road",
+                        "address1": "7501 Creedmoor Road",
+                        "address1S": "7501 Creedmoor Road"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "27613",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2008-06-29T04:00:00.000Z",
+                        "addedBy": "BJ",
+                        "address": "7501 Creedmoor Road",
+                        "address1": "7501 Creedmoor Road",
+                        "address1S": "7501 Creedmoor Road"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "27613",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2008-06-29T04:00:00.000Z",
+                        "addedBy": "BJ",
+                        "address": "7501 Creedmoor Road",
+                        "address1": "7501 Creedmoor Road",
+                        "address1S": "7501 Creedmoor Road"
+                    }
+                ]
+            }
+        },
+        {
+            "group": "DL",
+            "records": [
+                {
+                    "0": "0",
+                    "absplit": "47809",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2009-01-11T05:00:00.000Z",
+                    "addedBy": "DL",
+                    "address": "Tirey Hall, Room 134 E",
+                    "address1": "Tirey Hall, Room 134 E",
+                    "address1S": "Tirey Hall,Room 134 E"
+                },
+                {
+                    "0": "0",
+                    "absplit": "08901",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2009-08-30T04:00:00.000Z",
+                    "addedBy": "DL",
+                    "address": "85 Somerset St",
+                    "address1": "85 Somerset St",
+                    "address1S": "85 Somerset St"
+                },
+                {
+                    "0": "0",
+                    "absplit": "48009",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2007-12-12T05:00:00.000Z",
+                    "addedBy": "DL",
+                    "address": "23532 Beechwood",
+                    "address1": "23532 Beechwood",
+                    "address1S": "23532 Beechwood"
+                },
+                {
+                    "0": "0",
+                    "absplit": "58506",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2009-08-24T04:00:00.000Z",
+                    "addedBy": "DL",
+                    "address": "1200 Schafer St",
+                    "address1": "1200 Schafer St",
+                    "address1S": "1200 Schafer St"
+                },
+                {
+                    "0": "0",
+                    "absplit": "37065",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2010-03-29T04:00:00.000Z",
+                    "addedBy": "DL",
+                    "address": "Po Box 908",
+                    "address1": "Po Box 908",
+                    "address1S": "Po Box 908"
+                },
+                {
+                    "0": "0",
+                    "absplit": "28223",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2007-11-24T05:00:00.000Z",
+                    "addedBy": "DL",
+                    "address": "2345 University Drive",
+                    "address1": "2345 University Drive",
+                    "address1S": "2345 University Drive"
+                },
+                {
+                    "0": "0",
+                    "absplit": "34240",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2007-12-03T05:00:00.000Z",
+                    "addedBy": "DL",
+                    "address": "1510 Shadow Ridge",
+                    "address1": "1510 Shadow Ridge",
+                    "address1S": "1510 Shadow Ridge"
+                }
+            ],
+            "summary": {
+                "group": "DL",
+                "participants": [],
+                "total": 7,
+                "value": "DL",
+                "addDate": 1269835200000,
+                "records": [
+                    {
+                        "0": "0",
+                        "absplit": "47809",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2009-01-11T05:00:00.000Z",
+                        "addedBy": "DL",
+                        "address": "Tirey Hall, Room 134 E",
+                        "address1": "Tirey Hall, Room 134 E",
+                        "address1S": "Tirey Hall,Room 134 E"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "08901",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2009-08-30T04:00:00.000Z",
+                        "addedBy": "DL",
+                        "address": "85 Somerset St",
+                        "address1": "85 Somerset St",
+                        "address1S": "85 Somerset St"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "48009",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2007-12-12T05:00:00.000Z",
+                        "addedBy": "DL",
+                        "address": "23532 Beechwood",
+                        "address1": "23532 Beechwood",
+                        "address1S": "23532 Beechwood"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "58506",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2009-08-24T04:00:00.000Z",
+                        "addedBy": "DL",
+                        "address": "1200 Schafer St",
+                        "address1": "1200 Schafer St",
+                        "address1S": "1200 Schafer St"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "37065",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2010-03-29T04:00:00.000Z",
+                        "addedBy": "DL",
+                        "address": "Po Box 908",
+                        "address1": "Po Box 908",
+                        "address1S": "Po Box 908"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "28223",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2007-11-24T05:00:00.000Z",
+                        "addedBy": "DL",
+                        "address": "2345 University Drive",
+                        "address1": "2345 University Drive",
+                        "address1S": "2345 University Drive"
+                    },
+                    {
+                        "0": "0",
+                        "absplit": "34240",
+                        "acadTitle": "",
+                        "active": "",
+                        "active2": "",
+                        "addDate": "2007-12-03T05:00:00.000Z",
+                        "addedBy": "DL",
+                        "address": "1510 Shadow Ridge",
+                        "address1": "1510 Shadow Ridge",
+                        "address1S": "1510 Shadow Ridge"
+                    }
+                ]
+            }
+        },
+        {
+            "group": "UNKN",
+            "records": [
+                {
+                    "0": "0",
+                    "absplit": "13088",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2008-03-09T05:00:00.000Z",
+                    "addedBy": "UNKN",
+                    "address": "PO Box 147",
+                    "address1": "PO Box 147",
+                    "address1S": "PO Box 147"
+                },
+                {
+                    "0": "0",
+                    "absplit": "27613",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2010-05-28T04:00:00.000Z",
+                    "addedBy": "UNKN",
+                    "address": "7501 Creedmoor Road",
+                    "address1": "7501 Creedmoor Road",
+                    "address1S": "7501 Creedmoor Road"
+                },
+                {
+                    "0": "0",
+                    "absplit": "70894",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2009-03-06T05:00:00.000Z",
+                    "addedBy": "UNKN",
+                    "address": "po box 25125",
+                    "address1": "po box 25125",
+                    "address1S": "po box 25125"
+                },
+                {
+                    "0": "0",
+                    "absplit": "40292",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2009-07-10T04:00:00.000Z",
+                    "addedBy": "UNKN",
+                    "address": "114 Burhans Hall",
+                    "address1": "114 Burhans Hall",
+                    "address1S": "114 Burhans Hall"
+                },
+                {
+                    "0": "0",
+                    "absplit": "2022",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2009-07-11T04:00:00.000Z",
+                    "addedBy": "UNKN",
+                    "address": "Bondi Junc",
+                    "address1": "Bondi Junc",
+                    "address1S": "Bondi Junc"
+                },
+                {
+                    "0": "0",
+                    "absplit": "27613",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2009-10-02T04:00:00.000Z",
+                    "addedBy": "UNKN",
+                    "address": "7501 Creedmoor Road",
+                    "address1": "7501 Creedmoor Road",
+                    "address1S": "7501 Creedmoor Road"
+                }
+            ],
+            "summary": {
+                "group": "UNKN",
+                "participants": [],
+                "total": 6,
+                "value": "UNKN",
+                "addDate": 1275019200000
+            }
+        },
+        {
+            "group": "ML",
+            "records": [
+                {
+                    "0": "0",
+                    "absplit": "27613",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2007-11-25T05:00:00.000Z",
+                    "addedBy": "ML",
+                    "address": "708 MACON PL",
+                    "address1": "708 MACON PL",
+                    "address1S": "708 MACON PL"
+                },
+                {
+                    "0": "0",
+                    "absplit": "28307-5000",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2009-05-30T04:00:00.000Z",
+                    "addedBy": "ML",
+                    "address": "PO Box 70239",
+                    "address1": "PO Box 70239",
+                    "address1S": "PO Box 70239"
+                },
+                {
+                    "0": "0",
+                    "absplit": "36109",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2007-11-25T05:00:00.000Z",
+                    "addedBy": "ML",
+                    "address": "PO Box 4711",
+                    "address1": "PO Box 4711",
+                    "address1S": "PO Box 4711"
+                }
+            ],
+            "summary": {
+                "group": "ML",
+                "participants": [],
+                "total": 3,
+                "value": "ML",
+                "addDate": 1243656000000
+            }
+        },
+        {
+            "group": "DS",
+            "records": [
+                {
+                    "0": "0",
+                    "absplit": "27615",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2010-06-27T04:00:00.000Z",
+                    "addedBy": "DS",
+                    "address": "8008 Brandyapple Drive",
+                    "address1": "8008 Brandyapple Drive",
+                    "address1S": "8008 Brandyapple Drive"
+                },
+                {
+                    "0": "0",
+                    "absplit": "27615",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2010-09-03T04:00:00.000Z",
+                    "addedBy": "DS",
+                    "address": "123 Some Street",
+                    "address1": "123 Some Street",
+                    "address1S": "123 Some Street"
+                }
+            ],
+            "summary": {
+                "group": "DS",
+                "participants": [],
+                "total": 2,
+                "value": "DS",
+                "addDate": 1283486400000
+            }
+        },
+        {
+            "group": "SM",
+            "records": [
+                {
+                    "0": "0",
+                    "absplit": "27613",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2012-07-28T04:00:00.000Z",
+                    "addedBy": "SM",
+                    "address": "7501 Creedmoor Road",
+                    "address1": "7501 Creedmoor Road",
+                    "address1S": "7501 Creedmoor Road"
+                },
+                {
+                    "0": "0",
+                    "absplit": "27613",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2011-08-27T04:00:00.000Z",
+                    "addedBy": "SM",
+                    "address": "7501 Creedmoor Road",
+                    "address1": "7501 Creedmoor Road",
+                    "address1S": "7501 Creedmoor Road"
+                }
+            ],
+            "summary": {
+                "group": "SM",
+                "participants": [],
+                "total": 2,
+                "value": "SM",
+                "addDate": 1343448000000
+            }
+        },
+        {
+            "group": "PR",
+            "records": [
+                {
+                    "0": "0",
+                    "absplit": "27613",
+                    "acadTitle": "",
+                    "active": "",
+                    "active2": "",
+                    "addDate": "2010-06-05T04:00:00.000Z",
+                    "addedBy": "PR",
+                    "address": "7501 Creedmoor Road",
+                    "address1": "7501 Creedmoor Road",
+                    "address1S": "7501 Creedmoor Road"
+                }
+            ],
+            "summary": {
+                "group": "PR",
+                "participants": [],
+                "total": 1,
+                "value": "PR",
+                "addDate": 1275710400000
+            }
+        }
+    ],
+    "groups": [
+        "addedBy"
+    ],
+    "aggs": [
+        {
+            "field": {
+                "_links": {
+                    "self": {
+                        "href": "/api/datasets/u:admin:rigid-spade/fields/addDate",
+                        "rel": "self"
+                    }
+                },
+                "id": "u:admin:rigid-spade:addDate",
+                "label": "Add Date",
+                "name": "addDate",
+                "datasetId": "u:admin:rigid-spade",
+                "position": 5,
+                "dataType": "date",
+                "formatOptions": null,
+                "createdAt": "2016-07-26T18:49:39.169Z",
+                "updatedAt": "2016-07-26T18:49:39.169Z",
+                "_changes": null,
+                "fieldId": null
+            },
+            "fn": "max"
+        }
+    ],
+    "columnOrder": [
+        "0",
+        "absplit",
+        "acadTitle",
+        "active",
+        "active2",
+        "addDate",
+        "addedBy",
+        "address",
+        "address1",
+        "address1S"
+    ],
+    "fileName": "TestGargle.html",
+    "exportHeading": "Rigid Spade",
+    "columnHeaders": true,
+    "rowBody": false,
+    "stripedRows": true,
+    "templateName": 0,
+    "fontName": 0,
+    "fontSize": 8,
+    "customCSS": "body\n{\nborder-color:#e3e3e3;\ncolor:#000000;\nfont-family:Roboto, 'Helvetica Neue', sans-serif;\nfont-size:1.5rem;\nalign:Left;\nvertical-align:Top;\n\n}\n\ntable {\nbox-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.2), 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12);\nborder-collapse: collapse;\n}\n\ntable.footer {\nmargin-top: 2rem;\n}\n\n.export-header {\ncolor: #0E8CD9;\n}\n\ntd\n{\nborder-color:#e3e3e3;\ncolor:#000000;\nfont-family:Roboto, 'Helvetica Neue', sans-serif;\nfont-size:0.8rem;\nalign:Left;\nvertical-align:Top;\npadding: 10px;\n\n}\n\ntr {\nborder-bottom: 1px solid #e3e3e3\n}\n\ntr .header {\ncolor: #757575;\nfont-weight: 500;\nborder-bottom: 2px solid #e3e3e3;\n}\n\ntr .header {\ncolor: #757575;\nfont-weight: 500;\nborder-bottom: 2px solid #e3e3e3;\n}\n\ntr .record.header {\ncolor: #000000;\n    background-color: #757575;\nfont-weight: 100;\nborder-top: 2px solid #e3e3e3;\nborder-bottom: 2px solid #e3e3e3;\n}\n\ntable.header-table {\nmargin-bottom: 10px;\n}\n\ntable.header-table > tr {\nborder-bottom: none;\n}\n\ntable.header-table td {\ntext-align: center;\npadding-bottom: 0px;\n}\ntable.grouped-header-table {\nmargin-bottom: 10px;\n}\n\ntable.grouped-header-table > tr {\nborder-bottom: none;\n}\n\ntable.summary-grouped-header-table td {\n/*text-align: center;*/\ntext-align: left;\npadding-bottom: 0px;\n}\n\ntable.grouped-header-table td {\ntext-align: center;\n/*text-align: right;*/\npadding-bottom: 0px;\n}\n\n.alt, .header\n{\nbackground-color:#ffffff;\nborder-color:#e3e3e3;\ncolor:#000000;\nfont-family:Roboto, 'Helvetica Neue', sans-serif;\nfont-size:0.8rem;\nalign:Left;\nvertical-align:Top;\n\n}",
+    "customHTML": "FTW",
+    "query": {}
+}

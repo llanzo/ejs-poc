@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <style>     <%= customCSS %>     </style>
+            <title><%= exportHeading || "Dataset Export" %></title>
+  </head>
+  <body>
+    <% if(groups) { %>
+                  <table class="header-table" width="100.0%" cellspacing="0.0" cellpadding="3.0" border="0.0" align="Center">
+        <tbody>         <tr>         <td>         <h2 class="export-header">
+        <%= capitalize(groups[0]) + " Summary" %>
+        </h2>         </td>         </tr>         </tbody>
+        </table>     <% } %>
+            <%# TOC values #%>
+
+        <% if(summaryTOC) { %>         <table class="summary-grouped-header-table" width="100.0%" cellspacing="0.0" cellpadding="3.0" border="0.0" align="Center">         <tbody>         <tr>         <% summaryTOC.forEach(function(data, key) { %>                 <tr>                 <% if(data.id === "summary") { %><td>Link</td><% } else { %><td><a href="<%= "#" + data.id %>"><%= data.id %></a></td><% } %>                     <% data.data.forEach(function(datum, key) { %>                         <td class="header <%= data.class %>" ><span><%= datum %></span></td><% }); %>                 </tr>
+        <% }) %>         </tbody>         </table>         <% } %>
+
+        <%# TOTAL Summary values  #%>
+
+        <%# Group Header Table  #%>
+      </body>
+      </html>

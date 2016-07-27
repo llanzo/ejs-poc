@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <style>     <%= options.customCSS %>     </style>
+            <title><%= options.exportHeading || "Dataset Export" %></title>
+  </head>
+  <body>
+    <% if(options.groups) { %>
+                  <table class="header-table" width="100.0%" cellspacing="0.0" cellpadding="3.0" border="0.0" align="Center">
+        <tbody>         <tr>         <td>         <h2 class="export-header">
+        <%= _.capitalize(options.groups[0]) + " Summary" %>
+        </h2>         </td>         </tr>         </tbody>
+        </table>     <% } %>
+            <%# TOC values #%>
+
+        <% if(options.summaryTOC) { %>
+          <table class="summary-grouped-header-table" width="100.0%" cellspacing="0.0" cellpadding="3.0" border="0.0" align="Center">
+            <tbody>
+              <tr>
+              <% _.forEach(options.summaryTOC, function(data, key) { %>                 <tr>                 <% if(data.id === "summary") { %><td>Link</td><% } else { %><td><a href="<%= "#" + data.id %>"><%= data.id %></a></td><% } %>                     <% _.forEach(data.data, function(datum, key) { %>                         <td class="header <%= data.class %>" ><span><%= datum %></span></td><% }); %>                 </tr>
+        <% }) %>         </tbody>         </table>         <% } %>
+
+        <%# TOTAL Summary values #%>
+
+        <%# Group Header Table #%>
+        <table>         <tbody>     <% _.forEach(options.groupRecords, function(row, groupKey) { %>         <table class="grouped-header-table" width="100.0%" cellspacing="0.0" cellpadding="3.0" border="0.0" align="Center">         <tbody>         <tr id="<%= row.id %>">             //Add the Total Summary columns, to explain aggregate values
+        <% _.forEach(options.summaryHeaders, function(data, key) { %><td class="header sub" ><span><%= (key === 0) ? _.capitalize(options.groups[0]) : data %></span></td><% }); %>         </tr>     <tr>         <% _.forEach(row.data, function(entry) { %>         <td class="row cell" ><span><%= entry %></span></td>         <% }); %>     </tr>         </tbody>         </table>
+
+        <%# Group records #%>
+        <%  var rowRecords = _.find(options.groupedRecords, {"group": row.id}); if(rowRecords) { %>         <table width="100.0%" cellspacing="0.0" cellpadding="3.0" border="0.0" align="Center">         <tbody>         <tr>             //Group records header
+        <% _.forEach(_.keys(rowRecords.records[0]), function(entry) { %>         <th class="record header cell" ><span><%= _.capitalize(entry) %></span></th>             <% }) %>         </tr>         <% _.forEach(rowRecords.records, function(entry) { %>             <tr>         <% _.forEach(_.values(entry), function(datum) { %>         <td class="row cell" ><span><%= datum %></span></td>         <% }); %>         </tr>         <% }); %>         <% }; %>         </tbody>         </table>             <hr>     <% }); %>     </body>     </html>
