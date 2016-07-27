@@ -34,8 +34,8 @@ debugger;
             var splitData = lodash.reduce(cookedData.groupedRecords, function(acc, n) {
               var dataToDice = lodash.cloneDeep(cookedData);
               var retVal = lodash.omit(dataToDice, ['groupRecords', 'groupedRecords']);
-              retVal.groupRecords = lodash.filter(cookedData.groupRecords, {'group': n.group});
-              retVal.groupedRecords = lodash.filter(cookedData.groupedRecords, {'id': n.group});
+              retVal.groupRecords = lodash.filter(cookedData.groupRecords, {'id': n.group});
+              retVal.groupedRecords = lodash.filter(cookedData.groupedRecords, {'group': n.group});
               acc.push(retVal);
               return acc;
             },[]);
